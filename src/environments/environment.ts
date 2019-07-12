@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyD8LILrw6fBRCnC6DLuO_SqKeGAxZVB-Ts",
-    authDomain: "gpkportable.firebaseapp.com",
-    databaseURL: "https://gpkportable.firebaseio.com",
-    projectId: "gpkportable",
-    storageBucket: "gpkportable.appspot.com",
-    messagingSenderId: "678077580167",
-    appId: "1:678077580167:web:11b92a31cccf6002"
+    apiKey: "AIzaSyB6ppfzaJMbXInwWxkME5ka5dOlx3BO4D8",
+    authDomain: "projetogpk.firebaseapp.com",
+    databaseURL: "https://projetogpk.firebaseio.com",
+    projectId: "projetogpk",
+    storageBucket: "",
+    messagingSenderId: "3199270054",
+    appId: "1:3199270054:web:69941ca294cd597f"
   }
 };
 

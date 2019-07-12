@@ -8,6 +8,7 @@ import { NavController, LoadingController } from '@ionic/angular';
   templateUrl: './todo-details.page.html',
   styleUrls: ['./todo-details.page.scss'],
 })
+
 export class TodoDetailsPage implements OnInit {
  
   todo: Todo = {
